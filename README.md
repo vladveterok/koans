@@ -1,0 +1,3 @@
+KOANS
+
+Here are koans provided by EDGECASE and solved by me. That's it. What else to say... do what you want, love everyone around you, eat animals, love vegetables. Oh. wait...
